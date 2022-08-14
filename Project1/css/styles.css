@@ -13,6 +13,10 @@ nav div {
   margin-left: 10px;
   margin-right: 10px;
 }
+.udemy-logo-size{
+  width: 91px;
+  height: 34px;
+}
 nav .search-box {
   display: flex;
   border: 1px solid black;
@@ -29,7 +33,7 @@ nav input {
   outline: none;
   font-size: 20px;
 }
-.magnif {
+.magnificent-glass-logo {
   border: none;
   cursor: pointer;
 }
@@ -55,31 +59,31 @@ button {
   border: 1px solid black;
   font-weight: bold;
 }
-.bot:hover {
+.login-button:hover {
   cursor: pointer;
   background-color: aliceblue;
 }
-button.blo {
+button.signup-button {
   color: white;
   background-color: black;
 }
-.blo:hover {
+.signup-button:hover {
   cursor: pointer;
 }
-.small {
+.small-screen {
   display: none;
 }
 @media screen and (max-width: 1105px) {
   nav .search-box {
     display: none;
   }
-  .small {
+  .small-screen {
     display: block;
   }
-  .small.loke {
+  .small-screen.magificent-glass-small-screen {
     display: inline;
   }
-  .big {
+  .big-screen {
     display: none;
   }
   nav {
