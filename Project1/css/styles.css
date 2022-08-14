@@ -13,6 +13,9 @@ nav div {
   margin-left: 10px;
   margin-right: 10px;
 }
+nav i {
+  cursor: pointer;
+}
 .udemy-logo-size{
   width: 91px;
   height: 34px;
